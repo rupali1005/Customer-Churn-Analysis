@@ -1,10 +1,7 @@
 <img width="439" alt="image" src="https://github.com/user-attachments/assets/123edab4-9442-42a5-81bd-9d4fd07e558b" />
 
-![image](https://github.com/user-attachments/assets/453bd3b4-edf4-4af1-ba5f-ee654eca7c37)
+<img width="254" alt="image" src="https://github.com/user-attachments/assets/e3169f35-e373-4808-bd3a-1c707276bc5b" />
 
-
-## Project Overview
-This project analyzes customer churn patterns for a financial services company using SQL data analysis and Power BI visualization. The goal is to identify key factors influencing customer churn and provide actionable insights to improve retention strategies.
 
 ## Table of Contents
 - [Introduction](#introduction)
