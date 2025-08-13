@@ -67,6 +67,3 @@ The project includes queries ranging from basic to advanced analysis:
 - Intermediate queries for behavioral patterns
 - Advanced queries using CTEs and window functions for detailed segmentation
 
-## About the Author
-Rupali Das -
-Ex - Embryologist turned Data Analyst specializing in SQL and Power BI visualization with expertise in customer behavior analysis and data-driven decision making.
